@@ -1,5 +1,5 @@
 # Ducky-DNS
-Small ruby script to update a Gandi domain zone
+Small ruby script to update a DuckDNS domain zone
 
 ## Things
 
